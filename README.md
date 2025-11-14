@@ -1,112 +1,150 @@
-# desafio21dias
+---
 
-DClaro, Dev! ✔️
-Aqui vai um **README simples, bonito e profissional**, perfeito para um repositório de iniciante mostrando seu progresso no Dia 3 da Missão de 21 dias.
-Use à vontade no GitHub!
+# 🧭 Missão 21 Dias – Transição de Carreira para Desenvolvimento
+
+**Repositório oficial da minha jornada rumo à mudança de carreira para a área de tecnologia.**
+Aqui registro **cada etapa**, **cada exercício**, **cada projeto** e principalmente o meu progresso.
+
+Este desafio faz parte da **Trilha 2 – Missão 21 Dias da Migração de Carreira**.
+O foco é desenvolver consistência, aprender fundamentos e construir projetos reais.
+
 
 ---
 
-# 📘 README — Script de Variáveis e Entrada de Dados em Go
+# 🚀 Objetivo Geral
 
-## 🧩 Sobre o Projeto
-
-Este repositório faz parte da **Missão de 21 dias da Transição de Carreira**, trilha de desenvolvimento nível 2.
-O objetivo deste exercício (Dia 3) é praticar **variáveis**, **tipos de dados**, **operadores** e **entrada de informações pelo terminal**, utilizando a linguagem **Go (Golang)**.
-
-O projeto contém um script simples que:
-
-- pede o **nome** do usuário
-- pede a **idade**
-- realiza um cálculo básico (idade daqui a 5 anos)
-- exibe uma mensagem final motivadora
-
-É um passo importante para consolidar fundamentos essenciais da programação. 🚀
+Evoluir diariamente na programação, consolidando conceitos essenciais, construindo projetos simples e avançando até um **projeto autoral final**, publicável.
 
 ---
 
-## 📂 Estrutura do Projeto
+# 📅 Estrutura da Missão
+
+A jornada está dividida em **3 semanas**, cada uma com foco específico.
+
+---
+
+## 📘 Semana 1 – Fundamentos e Lógica
+
+Objetivo: **Dominar o básico e escrever código todos os dias.**
+
+| Dia | Missão                                                     | Status |
+| --- | ---------------------------------------------------------- | ------ |
+| 1   | Escolher linguagem principal e criar pasta de estudos      | ✔️     |
+| 2   | Configurar ambiente e criar o “Olá, Mundo!”                | ✔️     |
+| 3   | Variáveis, tipos e operadores → _script com entrada/saída_ | ✔️     |
+| 4   | Condicionais (if/else) → _simulação simples_               | 🔄     |
+| 5   | Laços (for/while) → _contador/tabuada_                     | 🔄     |
+| 6   | Resolver 3 desafios de lógica                              | 🔄     |
+| 7   | Resumo visual + aprendizados                               | 🔄     |
+
+---
+
+## 🛠️ Semana 2 – Aplicação Prática
+
+Objetivo: **Criar pequenos projetos e usar funções, listas e Git.**
+
+| Dia | Missão                                                     | Status |
+| --- | ---------------------------------------------------------- | ------ |
+| 8   | Criar projeto simples (calculadora, lista de tarefas etc.) | 🔄     |
+| 9   | Funções e modularização                                    | 🔄     |
+| 10  | Listas/arrays/structs                                      | 🔄     |
+| 11  | Entrada e saída de dados → relatório                       | 🔄     |
+| 12  | Criar 1° repositório público no GitHub                     | 🔄     |
+| 13  | Reproduzir projeto de tutorial (Go, Python ou Frontend)    | 🔄     |
+| 14  | Evoluir o projeto e identificar travas                     | 🔄     |
+
+---
+
+## 🧱 Semana 3 – Construção do Projeto Autoral
+
+Objetivo: **Criar e publicar seu primeiro projeto completo.**
+
+| Dia | Missão                                            | Status |
+| --- | ------------------------------------------------- | ------ |
+| 15  | Definir tema do projeto autoral                   | 🔄     |
+| 16  | Planejar funcionalidades e ferramental            | 🔄     |
+| 17  | Criar repositório base e estrutura inicial        | 🔄     |
+| 18  | Codar funcionalidades principais                  | 🔄     |
+| 19  | Adicionar melhorias e usabilidade                 | 🔄     |
+| 20  | Publicar o projeto (Vercel, Render, Pages etc.)   | 🔄     |
+| 21  | Fazer post no LinkedIn compartilhando o resultado | 🔄     |
+
+---
+
+# 🧪 Exercícios Desenvolvidos
+
+Cada exercício fica organizado por dia dentro deste repositório.
+
+### Exemplos:
 
 ```
-├── main.go      # Código fonte principal
-└── README.md    # Documentação do projeto
+/dia01-ola-mundo/
+/dia02-ambiente-configurado/
+/dia03-variaveis-e-operadores/
+/dia04-condicionais/
+/dia05-loops/
+...
+/projeto-final/
 ```
 
 ---
 
-## 🧠 Conceitos Praticados
+# 🧰 Como Executar os Scripts em Go
 
-- Declaração de variáveis (`var`)
-- Tipos básicos (`string`, `int`)
-- Entrada de dados com `fmt.Scanln`
-- Saída de dados com `fmt.Println`
-- Operadores aritméticos (`+`)
-- Execução de um programa Go via terminal
+### 1. Instale o Go
 
----
+[https://go.dev/dl/](https://go.dev/dl/)
 
-## 🧪 Como executar o projeto
-
-### 1. Certifique-se de ter o Go instalado
-
-Download oficial: [https://go.dev/dl/](https://go.dev/dl/)
-
-### 2. Clone este repositório
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-
-### 3. Acesse a pasta do projeto
-
-```bash
-cd seu-repositorio
-```
-
-### 4. Execute o programa
+### 2. Rode qualquer exercício com:
 
 ```bash
 go run main.go
 ```
 
----
+Exemplo:
 
-## 🖥️ Exemplo de uso
-
-```
-Digite seu nome:
-Rodrigo
-
-Digite sua idade:
-28
-
-Olá, Rodrigo !
-Daqui a 5 anos você terá 33 anos.
-Continue firme nos estudos! 🚀💡
+```bash
+cd dia03-variaveis-e-operadores
+go run main.go
 ```
 
 ---
 
-## 🌱 Próximos Passos
+# 📌 Motivação
 
-Este é apenas o início!
-Os próximos dias da missão incluem:
+Cada dia deste repositório representa:
 
-- Condicionais (Dia 4)
-- Loops (Dia 5)
-- Funções (Dia 9)
-- Primeiro projeto simples (Dia 8)
-- E um projeto autoral completo na Semana 3 🎯
+- uma nova habilidade aprendida
+- um passo rumo ao mercado
+- e um compromisso com meu futuro profissional
 
-Cada pequeno script é um bloco na construção do seu futuro como desenvolvedor.
+A consistência é o combustível dessa jornada.
+E estou totalmente comprometido com ela. 🚀👊
 
 ---
 
-## 🤝 Contribuições
+# 🏆 Projeto Final
 
-Este projeto é parte de um desafio pessoal, mas melhorias, sugestões ou forks são sempre bem-vindos.
+O projeto autoral será desenvolvido durante a **Semana 3** e ficará disponível na pasta:
+
+```
+/projeto-final/
+```
+
+Ele também será publicado e terá seu próprio README.
 
 ---
 
-## 🏆 Créditos
+# 🤝 Contribuições
 
-Desenvolvido por **Dev Duarte**, como parte da Missão de 21 Dias da Transição de Carreira.
+Este repositório é parte de um desafio pessoal, mas sugestões e ideias são bem-vindas!
+
+---
+
+# ✨ Créditos
+
+Desafio criado pela **DevSteph – Missão 21 Dias**.
+
+Desenvolvido por **Dev Duarte**, com foco na transição de carreira para Desenvolvimento Backend.
+
+---
