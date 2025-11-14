@@ -1,5 +1,3 @@
----
-
 # 🧭 Missão 21 Dias – Transição de Carreira para Desenvolvimento
 
 **Repositório oficial da minha jornada rumo à mudança de carreira para a área de tecnologia.**
@@ -7,7 +5,6 @@ Aqui registro **cada etapa**, **cada exercício**, **cada projeto** e principalm
 
 Este desafio faz parte da **Trilha 2 – Missão 21 Dias da Migração de Carreira**.
 O foco é desenvolver consistência, aprender fundamentos e construir projetos reais.
-
 
 ---
 
@@ -32,7 +29,7 @@ Objetivo: **Dominar o básico e escrever código todos os dias.**
 | 1   | Escolher linguagem principal e criar pasta de estudos      | ✔️     |
 | 2   | Configurar ambiente e criar o “Olá, Mundo!”                | ✔️     |
 | 3   | Variáveis, tipos e operadores → _script com entrada/saída_ | ✔️     |
-| 4   | Condicionais (if/else) → _simulação simples_               | 🔄     |
+| 4   | Condicionais (if/else) → _simulação simples_               | ✔️     |
 | 5   | Laços (for/while) → _contador/tabuada_                     | 🔄     |
 | 6   | Resolver 3 desafios de lógica                              | 🔄     |
 | 7   | Resumo visual + aprendizados                               | 🔄     |
