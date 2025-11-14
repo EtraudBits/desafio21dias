@@ -1,5 +1,3 @@
----
-
 # 🧭 Missão 21 Dias – Transição de Carreira para Desenvolvimento
 
 **Repositório oficial da minha jornada rumo à mudança de carreira para a área de tecnologia.**
