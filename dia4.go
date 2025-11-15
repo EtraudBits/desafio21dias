@@ -7,6 +7,7 @@ import "fmt"
 //função fora do escopo da main para a area do ambiente do ar
 func arIdeal(area float64) string {
 
+	
 	//usando condicionais if/else
 
 	if area >=1 && area <=12 {
