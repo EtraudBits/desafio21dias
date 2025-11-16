@@ -30,8 +30,8 @@ Objetivo: **Dominar o básico e escrever código todos os dias.**
 | 2   | Configurar ambiente e criar o “Olá, Mundo!”                | ✔️     |
 | 3   | Variáveis, tipos e operadores → _script com entrada/saída_ | ✔️     |
 | 4   | Condicionais (if/else) → _simulação simples_               | ✔️     |
-| 5   | Laços (for/while) → _contador/tabuada_                     | 🔄     |
-| 6   | Resolver 3 desafios de lógica                              | 🔄     |
+| 5   | Laços (for/while) → _contador/tabuada_                     | ✔️     |
+| 6   | Resolver 3 desafios de lógica                              | ✔️     |
 | 7   | Resumo visual + aprendizados                               | 🔄     |
 
 ---
