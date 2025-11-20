@@ -4,11 +4,11 @@ package main
 
 import (
 "fmt"
-"time"
+"time" //Pacote time: usado para pausar a execução (Sleep) e manipular tempo
 )
 
 func cronometro (segundos int) {
-	for i:= 1; i <= segundos; i++ {
+	for i:= 1; i <= segundos; i++ { // Loop: inicia em 1 e repete enquanto i for menor ou igual a segundos
 		fmt.Println("Tempo:", i, "Segundo(s)")
 		time.Sleep(1 * time.Second) //para aguardar 1 segundo e continua
 	}
@@ -28,5 +28,5 @@ func main() {
 		return
 	}
 
-	cronometro(tempo)
+	cronometro(tempo) //Chama a função cronometro passando o valor informado pelo usuário
 }
