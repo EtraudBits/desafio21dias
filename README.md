@@ -42,11 +42,11 @@ Objetivo: **Criar pequenos projetos e usar funções, listas e Git.**
 
 | Dia | Missão                                                     | Status |
 | --- | ---------------------------------------------------------- | ------ |
-| 8   | Criar projeto simples (calculadora, lista de tarefas etc.) | 🔄     |
-| 9   | Funções e modularização                                    | 🔄     |
-| 10  | Listas/arrays/structs                                      | 🔄     |
-| 11  | Entrada e saída de dados → relatório                       | 🔄     |
-| 12  | Criar 1° repositório público no GitHub                     | 🔄     |
+| 8   | Criar projeto simples (calculadora, lista de tarefas etc.) | ✔️     |
+| 9   | Funções e modularização                                    | ✔️     |
+| 10  | Listas/arrays/structs                                      | ✔️     |
+| 11  | Entrada e saída de dados → relatório                       | ✔️     |
+| 12  | Criar 1° repositório público no GitHub                     | ✔️     |
 | 13  | Reproduzir projeto de tutorial (Go, Python ou Frontend)    | 🔄     |
 | 14  | Evoluir o projeto e identificar travas                     | 🔄     |
 
