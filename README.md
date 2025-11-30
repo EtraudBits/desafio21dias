@@ -47,8 +47,8 @@ Objetivo: **Criar pequenos projetos e usar funções, listas e Git.**
 | 10  | Listas/arrays/structs                                      | ✔️     |
 | 11  | Entrada e saída de dados → relatório                       | ✔️     |
 | 12  | Criar 1° repositório público no GitHub                     | ✔️     |
-| 13  | Reproduzir projeto de tutorial (Go, Python ou Frontend)    | 🔄     |
-| 14  | Evoluir o projeto e identificar travas                     | 🔄     |
+| 13  | Reproduzir projeto de tutorial (Go, Python ou Frontend)    | ✔️     |
+| 14  | Evoluir o projeto e identificar travas                     | ✔️     |
 
 ---
 
@@ -58,9 +58,9 @@ Objetivo: **Criar e publicar seu primeiro projeto completo.**
 
 | Dia | Missão                                            | Status |
 | --- | ------------------------------------------------- | ------ |
-| 15  | Definir tema do projeto autoral                   | 🔄     |
-| 16  | Planejar funcionalidades e ferramental            | 🔄     |
-| 17  | Criar repositório base e estrutura inicial        | 🔄     |
+| 15  | Definir tema do projeto autoral                   | ✔️     |
+| 16  | Planejar funcionalidades e ferramental            | ✔️     |
+| 17  | Criar repositório base e estrutura inicial        | ✔️     |
 | 18  | Codar funcionalidades principais                  | 🔄     |
 | 19  | Adicionar melhorias e usabilidade                 | 🔄     |
 | 20  | Publicar o projeto (Vercel, Render, Pages etc.)   | 🔄     |
