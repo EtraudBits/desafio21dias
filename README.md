@@ -61,10 +61,10 @@ Objetivo: **Criar e publicar seu primeiro projeto completo.**
 | 15  | Definir tema do projeto autoral                   | ✔️     |
 | 16  | Planejar funcionalidades e ferramental            | ✔️     |
 | 17  | Criar repositório base e estrutura inicial        | ✔️     |
-| 18  | Codar funcionalidades principais                  | 🔄     |
-| 19  | Adicionar melhorias e usabilidade                 | 🔄     |
-| 20  | Publicar o projeto (Vercel, Render, Pages etc.)   | 🔄     |
-| 21  | Fazer post no LinkedIn compartilhando o resultado | 🔄     |
+| 18  | Codar funcionalidades principais                  | ✔️     |
+| 19  | Adicionar melhorias e usabilidade                 | ✔️     |
+| 20  | Publicar o projeto (Vercel, Render, Pages etc.)   | ✔️     |
+| 21  | Fazer post no LinkedIn compartilhando o resultado | ✔️     |
 
 ---
 
